@@ -10,7 +10,7 @@ declare namespace GoogleAppsScript {
     /**
      * An enum that defines the aggregation types that can be set for a Field.
      */
-    export enum AggregationType { AVG, COUNT, COUNT_DISTINCT, MAX, MIN, SUM, AUTO, NO_AGGREGATION }
+    export enum AggregationType { AVG, COUNT, COUNT_DISTINCT, MAX, MIN, SUM, AUTO, NONE }
 
     /**
      * An enum that defines the authentication types that can be set for a connector.
